@@ -1,5 +1,6 @@
 # Handwirtten-Text-Recognition-Project
-1. Purpose
+1. Purpose:
+
 The main purpose of this project is to develop a system to digitize text present in handwritten documents. For this, we will using a k-NN classifier model and train it with datasets of handwritten alphabet images. Classification will be done on a character level, and to break down images into individual characters we have designed a program which implements Tesseract engine to recognise text and perform character segmentation on the image to produce classification-compatible character images.
 As computerization progresses in the contemporary scenario, the need for digitization of handwritten documents follows.
 	 
